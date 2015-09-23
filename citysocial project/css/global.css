@@ -1,0 +1,15 @@
+.navbar-brand {
+  width: 300px;
+}
+
+.navbar-brand img {
+  width: 30px;
+  margin: -5px 10px 0 0;
+  float: left;
+}
+
+#instagram-section {
+	width: 60%;
+	float:left;
+
+}
